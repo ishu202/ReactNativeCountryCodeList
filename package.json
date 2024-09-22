@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "react-native-alphabetlistview": "0.3.0",
-    "react-native-search-box": "git+https://github.com/ishu202/react-native-search-box.git",
+    "react-native-search-box": "git+https://github.com/ishu202/react-native-search-box.git#52a7dc8114ca5bb2f544947d2b699228d14ee941",
     "lodash": "^4.17.10"
   }
 }
